@@ -1,4 +1,4 @@
-# Segmentación de colores en imágenes aplicando clustering no supervisado con 'k-means'.
+# Segmentación de colores en imágenes aplicando el Clustering no supervisado con 'k-means'.
 
 ---
 
